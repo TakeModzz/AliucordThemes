@@ -1,0 +1,43 @@
+{
+    "manifest": {
+        "author": "TakeModzz",
+        "version": "1.0.0",
+        "name": "Sunset Theme",
+        "transparency_mode": 3
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/TakeModzz\/AliucordThemes\/main\/Sunset%20Theme\/Sunset.png",
+        "overlay_alpha": 1
+    },
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/TakeModzz\/AliucordThemes\/blob\/main\/Sunset%20Theme\/ggsans-Medium.ttf"
+    },
+    "simple_colors": {
+        "input_background": 1232753164,
+        "background": 603979776,
+        "background_secondary": 603979776
+    },
+    "colors": {
+        "white_500": -5198428,
+        "primary_dark_360": -7432807,
+        "primary_dark_200": -4341309,
+        "primary_dark_300": -4413541,
+        "primary_dark_630": 3092790,
+        "primary_dark_660": 1404139266,
+        "primary_dark_330": -10395298,
+        "primary_700": -15204033,
+        "brand_new_560": -9353533,
+        "uikit_btn_compound_color_selector_dark": -3825323,
+        "uikit_settings_item_text_color_light": -14547873,
+        "uikit_btn_bg_color_selector_secondary_light": -8110684
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": 1337622057,
+        "ic_status_online_16dp": -11358353,
+        "ic_status_dnd_16dp": -3650225,
+        "ic_status_idle_16dp": -2050192,
+        "ic_status_invisible_16dp": -13875607,
+        "drawable_button_grey": -14221219
+    },
+    "raws": {}
+}
